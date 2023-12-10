@@ -24,3 +24,6 @@ Feel free to browse through the different sections and explore the projects that
 I'm excited to share my journey through these projects, and I'm equally eager to hear your thoughts. Whether you're interested in my work or just want to connect, feel free to drop me a message. Your feedback is valuable and appreciated.
 
 Thank you once again for visiting, and I hope you enjoy exploring my project portfolio!
+
+| Category | Project Name | Link |
+|-------|--|-------|
