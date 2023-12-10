@@ -17,7 +17,7 @@ Feel free to browse through the different sections and explore the projects that
 ### Contact Information
 
 - **Email:** venkatvarmankani@gmail.com
-- **LinkedIn:** venkat-v-0421a7201
+- **LinkedIn:** https://www.linkedin.com/in/venkat-v-0421a7201/
   
 ### Getting in Touch
 
